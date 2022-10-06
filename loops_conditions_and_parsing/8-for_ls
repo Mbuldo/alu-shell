@@ -1,4 +1,5 @@
-sh script that displays contents of current directory in list format, where only the part of the name after hyphen is displayed 
+#!/usr/bin/env bash
+# bash script that displays contents of current directory in list format, where only the part of the name after hyphen is displayed 
 # Use for loop
 
 list=$(ls)
